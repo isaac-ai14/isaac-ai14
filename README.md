@@ -33,12 +33,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/isaac-ai14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaac-ai14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-ai14&layout=compact&langs_count=7&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaac-ai14&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-ai14&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---

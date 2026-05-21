@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/isaac-ai14/isaac-ai14/blob/main/banner.png" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Isaac Shabir</h1>
 <h3 align="center">Future AI Engineer | Python Developer | Automation & AI Agents</h3>
